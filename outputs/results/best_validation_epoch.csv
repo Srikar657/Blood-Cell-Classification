@@ -1,0 +1,4 @@
+Model,Best validation macro-F1,Best epoch,Epochs run
+ResNet-18,0.9943998966282537,7.0,12.0
+DenseNet-121,0.9957900368029939,11.0,16.0
+EfficientNet-B0,0.9963314562140357,17.0,20.0

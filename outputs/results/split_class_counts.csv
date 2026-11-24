@@ -1,0 +1,9 @@
+Blood Cell Type,Training,Validation,Testing
+Basophil,852,122,244
+Eosinophil,2181,312,624
+Erythroblast,1085,155,311
+Immature granulocytes,2026,290,579
+Lymphocyte,849,122,243
+Monocyte,993,143,284
+Neutrophil,2330,333,666
+Platelet,1643,235,470
