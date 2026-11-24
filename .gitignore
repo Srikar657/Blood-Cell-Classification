@@ -6,7 +6,6 @@ venv/
 .ipynb_checkpoints/
 
 # Model checkpoints and archives (large files)
-outputs/checkpoints/*.pth
 *.zip
 
 # Dataset cache
